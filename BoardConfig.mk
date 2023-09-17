@@ -157,3 +157,7 @@ TARGET_USES_LOGD := true
 # PBRP specific build flags
 PB_DISABLE_DEFAULT_TREBLE_COMP := true
 PB_TORCH_PATH := "/sys/class/flashlight"
+
+# Include some binaries
+TW_INCLUDE_LIBRESETPROP := true
+TW_INCLUDE_RESETPROP := true
