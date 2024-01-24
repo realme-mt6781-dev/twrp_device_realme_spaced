@@ -149,6 +149,7 @@ TW_OZIP_DECRYPT_KEY := 0000
 TW_INCLUDE_LOGICAL := my_product my_engineering my_company my_carrier my_region my_heytap my_stock my_preload my_manifest
 TW_Y_OFFSET := 115
 TW_H_OFFSET := -115
+TW_FRAMERATE := 60
 
 # Debug
 TWRP_INCLUDE_LOGCAT := true
