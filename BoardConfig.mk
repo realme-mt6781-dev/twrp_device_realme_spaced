@@ -163,3 +163,6 @@ PB_TORCH_MAX_BRIGHTNESS := 1
 # Include some binaries
 TW_INCLUDE_LIBRESETPROP := true
 TW_INCLUDE_RESETPROP := true
+
+# Apex
+TW_EXCLUDE_APEX := true
